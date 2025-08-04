@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi there, I'm **Sefa Çelik**
 
-<!--
-**clksefa/clksefa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Programming Student** at Uludağ University
+📚 GPA: **3.30**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Skills & Technologies
+
+* C# / ASP.NET Core MVC
+* C++
+* HTML5 / CSS3 / Bootstrap
+* JavaScript
+* Microsoft SQL Server
+
+---
+
+### 📫 Contact Me
+
+* 📧 Email: [celiksefa6@gmail.com](mailto:celiksefa6@gmail.com)
+* 💼 [LinkedIn](https://www.linkedin.com/in/sefacelikk/)
+* 🌐 [Portfolio / GitHub Projects](https://github.com/clksefa?tab=repositories)
+
+---
+
+### 🚀 Goals
+
+* Kendimi gerçek dünya projeleriyle geliştirerek tam zamanlı yazılım geliştirme alanında uzmanlaşmak
+* Açık kaynak projelere katkı sağlamak
+* Yazılım mimarisi ve veri yapıları konusunda derinleşmek
+
+> 🧾 [📄 Özgeçmişimi buradan görüntüleyin](https://github.com/clksefa/e_ticaret_mvc_project/blob/master/Özgeçmiş%20-%20Cv.pdf)
+
+---
+
+> 📌 Şu anda aktif olarak ASP.NET Core MVC ile projeler geliştiriyorum. GitHub sayfamda e-ticaret, döviz kuru uygulaması ve hesap makinesi gibi örnek projelerimi inceleyebilirsiniz.
