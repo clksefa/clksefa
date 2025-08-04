@@ -29,8 +29,6 @@
 * Açık kaynak projelere katkı sağlamak
 * Yazılım mimarisi ve veri yapıları konusunda derinleşmek
 
-> 🧾 [📄 Özgeçmişimi buradan görüntüleyin](https://github.com/clksefa/e_ticaret_mvc_project/blob/master/Özgeçmiş%20-%20Cv.pdf)
-
 ---
 
 > 📌 Şu anda aktif olarak ASP.NET Core MVC ile projeler geliştiriyorum. GitHub sayfamda e-ticaret, döviz kuru uygulaması ve hesap makinesi gibi örnek projelerimi inceleyebilirsiniz.
